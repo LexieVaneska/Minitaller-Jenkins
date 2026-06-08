@@ -262,3 +262,5 @@ Build App Image: construye la imagen Docker final buscaminas-develop.
 ```
 
 Si `Static Analysis` o `Unit Tests` fallan, Jenkins no construye la imagen final.
+
+Prueba inicial de jenkins
